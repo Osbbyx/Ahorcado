@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="e">e</string>
+    <string name="f">f</string>
+    <string name="g">g</string>
+    <string name="h">h</string>
+    <string name="i">i</string>
+
+    <string name="j">j</string>
+    <string name="k">k</string>
+    <string name="l">l</string>
+    <string name="m">m</string>
+    <string name="n">n</string>
+    <string name="ñ">ñ</string>
+    <string name="o">o</string>
+    <string name="p">p</string>
+    <string name="q">q</string>
+
+    <string name="r">r</string>
+    <string name="s">s</string>
+    <string name="t">t</string>
+    <string name="u">u</string>
+    <string name="v">v</string>
+    <string name="w">w</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+    <string name="z">z</string>
+
+    <string name="siguiente">Siguiente</string>
+    <string name="Inicio">Inicio</string>
+
+</resources>
