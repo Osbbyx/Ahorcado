@@ -7,3 +7,7 @@ Tarea Ahorcado Programación 2 (Android)
 # Uncheck Enable instant run...
 
 Listo
+
+
+# Copytight and license
+Code copyright 2019 Oliver Smit.
