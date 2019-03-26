@@ -10,4 +10,4 @@ Listo
 
 
 # Copytight and license
-Code copyright 2019 Oliver Smit.
+Code copyright 2018 Oliver Smit.
